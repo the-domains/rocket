@@ -1,0 +1,44 @@
+name: ROCKET
+analytics: {}
+github: true
+description: Hackathon leader of Nepal
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+author:
+  name: ROCKET
+  url: WWW.LULU-MEI.COM
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+content: []
+layout_spectrum: 0.6967048335354775
+color:
+  lightness: 0.8433655495755374
+  brandColors:
+    - '#1C6687'
+    - '#083F65'
+    - '#011223'
+    - '#4F8A98'
+    - '#E4E3C4'
+  saturation: 0.8446567405480891
+  brandStrength: 0.6730820720549673
+  rhythmicContrast: 0.2763641662895679
+content_rating:
+  adult: false
+typography_spectrum: 0.737690657377243
+opengraph: {}
+title: nepalRocket
